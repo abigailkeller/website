@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "Abby Keller"
+  navbar:
+    background: "dark"
+    foreground: "#f8f9fa"
+    right:
+      - text: "Research"
+        href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Software"
+        href: software.qmd
+      - text: "Photography"
+        href: photography.qmd
+    tools:
+      - icon: github
+        href: https://github.com/abigailkeller
+        aria-label: GitHub
+
+format:
+  html:
+    grid:
+        body-width: 1100px
+    title-block-banner: assets/img/IMG_2693_3.JPG
+    title-block-mask: '<span class="mask bg-gradient-light opacity-2"></span>'
+

@@ -1,0 +1,15 @@
+---
+title: "Research"
+---
+
+::: {layout-ncol="2"}
+::: {.column width="40%"}
+![](assets/img/IMG_2801_square.JPG){height="400"}
+:::
+
+::: {.column width="60%"}
+
+Managing the environment is plagued by uncertainty; we can make only imperfect observations of its state, our actions have uncertain outcomes, and factors like climate change will alter the environment in ways that can be hard to predict. My research focuses on using advances in computational science to improve environmental management decisions made under uncertainty. I develop Bayesian state-space models to make inferences about the dynamics of animal populations using imperfect observational data. I also use advances in artificial intelligence to bring more ecological realism into decision theoretic models, like Markov decision processes, that allow for complex biological dynamics and uncertain future change. I value producing environmental management-relevant information, so an aspect of my research focuses on developing societally relevant and equity-minded objective functions, as well as improving interpretation and communication of decision theory to decision-makers.
+
+:::
+:::

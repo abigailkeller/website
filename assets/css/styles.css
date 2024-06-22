@@ -1,0 +1,19 @@
+/* styles.css */
+
+.banner {
+  height: 300px; /* Adjust the height as needed */
+  width: 100%; /* Optional: Ensure the image fills the width of its container */
+  object-fit: cover; /* Optional: Maintain aspect ratio while covering the entire container */
+}
+
+.reverse-list {
+  counter-reset: reversed-counter;
+}
+
+.reverse-list li {
+  counter-increment: reversed-counter;
+}
+
+.reverse-list li::before {
+  content: counter(reversed-counter);
+}

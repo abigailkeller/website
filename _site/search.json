@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About me",
+    "section": "",
+    "text": "Abby Keller\n\nI am a PhD student and DOE CSGF Fellow in the UC Berkeley Department of Environmental Science, Policy, and Management (ESPM), where I study quantitative ecology and decision analysis in the Boettiger and de Valpine Labs. For the past few years I have been working with USGS Western Fisheries Research Center on developing a structured decision making framework for invasive European green crab management in the Northeast Pacific.\nI have a master’s degree in Marine Policy from the University of Washington and a bachelor’s degree in Biology from Haverford College. I also have a background in molecular ecology and deep sea biogeography.\n\nGitHub | CV"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Google Scholar | ORCID\n\nIn review\nKeller, A.G., Counihan, T.D., Grosholz, E.D., Boettiger, C. The transition from resistance to acceptance: managing a marine invasive species in a changing world. Journal of Applied Ecology. Code\nGoldstein, B.R., Keller, A.G., Calhoun, K.L., Barker, K.J., Montealegre-Mora, F., Serota, M.W., Van Scoyoc, A., Parker-Shames, P., Androzzi, C., de Valpine, P. How do ecologists estimate occupancy in practice? Ecography.\n\n\nPeer-reviewed\nBetters, M., Stabbins, A., Keller, A.G., Cordes, E.E. (2023). Biogeography and depth partitioning in deep‐sea gastropods at the Pacific Costa Rica Margin. Journal of Biogeography. 50(12), 2109-2121. Link\nMontealegre-Mora, F., Chapman, M., Keller, A.G., Lapeyolerie, M., Boettiger, C. (2023). Pretty darn good control: when are approximate solutions better than approximate models? Bulletin of Mathematical Biology. 85, 95. Link\nKeller, A.G., Dahlhoff, E.P., Bracewell, R., Chatla, K., Bachtrog, D., Rank, N.E., Williams, CM. (2023). Multi-locus genomic signatures of local adaptation to snow across the landscape in California populations of the willow leaf beetle. Proceedings of the Royal Society B: Biological Sciences. 290(2005). Link | PDF\nKeller, A.G., Grason, E. McDonald, P.S., Ramón-Laca, A., Kelly, R.P. (2022). Tracking an invasion front with environmental DNA. Ecological Applications. e2561. Link | PDF | Code\nJacobs-Palmer, E., Gallego, R., Cribari, K., Keller A.G., Kelly, R.P. (2021). Environmental DNA Metabarcoding for Simultaneous Monitoring and Ecological Assessment of Many Harmful Algal Bloom Taxa. Frontiers in Ecology and Evolution. 9: 612107. Link | PDF\nKeller, A.G., Apprill, A., Lebaron, P., Robbins, J., Romano, T., Overton, E., Yuan, R., Rong, Y., Pollara, S., Whalen, K. (2021). Characterizing the culturable surface microbiomes of diverse marine animals. FEMS Microbiology Ecology. 97, fiab040. Link | PDF\nGoffredi, S.K., Tilic, E., Mullin, S.W., Dawson, K.S., Keller, A.G., Lee, R.W., Wu, F., Levin, L.A., Rouse, G., Cordes, E.E., Orphan, V.J. (2020). Methanotrophic bacterial symbionts fuel dense populations of deep-sea feather duster worms (Sabellida, Annelida) and extend the spatial influence of methane seepage. Science Advances. 6: eaay8562. Link | PDF\nAuscavitch, S.R., Deere, M.C., Keller, A.G., Rotjan, R.D., Shank, T.M., Cordes, E.E. (2020). Oceanographic Drivers of Deep-Sea Coral Species Distribution and Community Assembly on Seamounts, Islands, Atolls, and Reefs Within the Phoenix Islands Protected Area. Frontiers in Marine Science. 7:42. Link | PDF"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "In my work I hope to promote reproducible science and narrow the research-implementation gap. Below are some software and management tools I have developed.\n\n\n\n\n\n\n\n\n\n\n\neDNAjoint: R package useful for interpreting observations from paired eDNA and traditional surveys. Development version. In review at ROpenSci.\n\n\n\n\n\n\n\nEuropean Green Crab Management Tools: Washington Sea Grant-hosted RShiny app co-developed with invasive species managers throughout Washington State to help plan and interpret European green crab removal efforts.\n\nUses R package greencrab.toolkit available on Cran.\n\n\n\n\n\n\n\nDemonstrating the green crab management toolkit at a management summit in WA state"
+  },
+  {
+    "objectID": "photographs.html",
+    "href": "photographs.html",
+    "title": "Photographs",
+    "section": "",
+    "text": "Here are some photographs from my field work and conference travel!\n\n\n\n\nMouth of the Columbia River\n\n\n\n\n\n\n\n\n\n\n\n\nLouisville, KY for TWS 2023 Conference\n\n\n\n\n\n\n\nCape Flattery in Makah Indian Reservation"
+  },
+  {
+    "objectID": "photography.html",
+    "href": "photography.html",
+    "title": "Photography",
+    "section": "",
+    "text": "Here are some photographs from my field work, conference travel, and other important places to me.\n\n\n\n\n\n\n\n\n\nMouth of the Columbia River\n\n\n\n\n\n\n\nKeyser, WV\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLouisville, KY for TWS 2023 Conference\n\n\n\n\n\n\n\nCape Flattery, WA\n\n\n\n\n\n\n\nWillapa Bay, WA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThird Creek, Knoxville, TN\n\n\n\n\n\n\n\nMakah Indian Reservation"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Managing the environment is plagued by uncertainty; we can make only imperfect observations of its state, our actions have uncertain outcomes, and factors like climate change will alter the environment in ways that can be hard to predict. My research focuses on using advances in computational science to improve environmental management decisions made under uncertainty. I develop Bayesian state-space models to make inferences about the dynamics of animal populations using imperfect observational data. I also use advances in artificial intelligence to bring more ecological realism into decision theoretic models, like Markov decision processes, that allow for complex biological dynamics and uncertain future change. I value producing environmental management-relevant information, so an aspect of my research focuses on developing societally relevant and equity-minded objective functions, as well as improving interpretation and communication of decision theory to decision-makers."
+  }
+]

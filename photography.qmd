@@ -1,0 +1,28 @@
+---
+title: "Photography"
+---
+
+Here are some photographs from my field work, conference travel, and other important places to me.
+
+::: {layout-ncol="2"}
+
+![Mouth of the Columbia River](assets/img/IMG_2757-2.jpg){height="400px"}
+
+![Keyser, WV](assets/img/IMG_4629.jpg){height="400px"}
+:::
+
+::: {layout-ncol="3"}
+![Louisville, KY for TWS 2023 Conference](assets/img/IMG_5202.JPG){height="500px"}
+
+![Cape Flattery, WA](assets/img/IMG_2485.jpg){height="500px"}
+
+![Willapa Bay, WA](assets/img/IMG_2802.JPG){height="500px"}
+:::
+
+::: {layout-ncol="2"}
+
+![Third Creek, Knoxville, TN](assets/img/IMG_6866.JPG){height="500px"}
+
+![Makah Indian Reservation](assets/img/IMG_2239.JPG){height="400px"}
+
+:::

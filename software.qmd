@@ -1,0 +1,23 @@
+---
+title: "Software"
+---
+
+**In my work I hope to promote reproducible science and narrow the research-implementation gap. Below are some software and management tools I have developed.**
+
+::: {layout-ncol="2"}
+::: {.column width="50%"}
+![](assets/img/eDNAjoint_logo_final.png){height="250" fig-align="center"}
+
+**eDNAjoint**: R package useful for interpreting observations from paired eDNA and traditional surveys. [Development version](https://github.com/abigailkeller/eDNAjoint). In review at *ROpenSci*.
+:::
+
+::: {.column width="50%"}
+![](assets/img/greencrab_drawing.png){height="175" fig-align="center"}
+
+[European Green Crab Management Tools](https://washingtonseagrant.shinyapps.io/greencrabtools/): Washington Sea Grant-hosted RShiny app co-developed with invasive species managers throughout Washington State to help plan and interpret European green crab removal efforts.
+
+-   Uses R package [greencrab.toolkit](https://cran.r-project.org/web/packages/greencrab.toolkit/index.html) available on Cran.
+:::
+:::
+
+![Demonstrating the green crab management toolkit at a management summit in WA state](assets/img/Abby-ShinyPresentation.jpg){height="500"}
