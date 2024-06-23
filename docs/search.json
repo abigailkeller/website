@@ -11,7 +11,7 @@
     "href": "software.html",
     "title": "Software",
     "section": "",
-    "text": "In my work I hope to promote reproducible science and narrow the research-implementation gap. Below are some software and management tools I have developed.\n\n\n\n\n\n\n\n\n\n\n\neDNAjoint: R package useful for interpreting observations from paired eDNA and traditional surveys. Development version. In review at ROpenSci.\n\n\n\n\n\n\n\nEuropean Green Crab Management Tools: Washington Sea Grant-hosted RShiny app co-developed with invasive species managers throughout Washington State to help plan and interpret European green crab removal efforts.\n\nUses R package greencrab.toolkit available on Cran.\n\n\n\n\n\n\n\nDemonstrating the green crab management toolkit at a management summit in WA state"
+    "text": "In my work I hope to promote reproducible science and narrow the research-implementation gap. Below are some software and management tools I have developed.\n\n\n\n\n\n\n\n\n\n\n\neDNAjoint: R package useful for interpreting observations from paired eDNA and traditional surveys. Development version is available for installation, and refer to the package vignette for more information and detailed examples. In review at ROpenSci.\n\n\n\n\n\n\n\nEuropean Green Crab Management Tools: Washington Sea Grant-hosted RShiny app co-developed with invasive species managers throughout Washington State to help plan and interpret European green crab removal efforts.\n\nUses R package greencrab.toolkit available on Cran.\n\n\n\n\n\n\n\nDemonstrating the green crab management toolkit at a management summit in WA state"
   },
   {
     "objectID": "publications.html",
@@ -25,7 +25,7 @@
     "href": "photography.html",
     "title": "Photography",
     "section": "",
-    "text": "Here are some photographs from my field work, conference travel, and other important places to me.\n\n\n\n\n\n\n\n\n\nMouth of the Columbia River\n\n\n\n\n\n\n\nKeyser, WV\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLouisville, KY for TWS 2023 Conference\n\n\n\n\n\n\n\nCape Flattery, WA\n\n\n\n\n\n\n\nWillapa Bay, WA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThird Creek, Knoxville, TN\n\n\n\n\n\n\n\nMakah Indian Reservation"
+    "text": "Here are some photographs from my field work, conference travel, and other important places to me.\n\n\n\n\n\n\n\n\n\nMouth of the Columbia River\n\n\n\n\n\n\n\nKeyser, WV\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLouisville, KY for TWS 2023 Conference\n\n\n\n\n\n\n\nCape Flattery, Makah Indian Reservation\n\n\n\n\n\n\n\nWillapa Bay, WA"
   },
   {
     "objectID": "research.html",
