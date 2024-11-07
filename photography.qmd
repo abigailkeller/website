@@ -8,7 +8,7 @@ Here are some photographs from my field work, conference travel, and other impor
 
 ![Mouth of the Columbia River](assets/img/IMG_2757-2.jpg){height="400px"}
 
-![Keyser, WV](assets/img/IMG_4629.jpg){height="400px"}
+![Keyser, WV](assets/img/IMG_4629-02.jpg){height="400px"}
 :::
 
 ::: {layout-ncol="3"}

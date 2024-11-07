@@ -8,7 +8,7 @@ title: "Software"
 ::: {.column width="50%"}
 ![](assets/img/eDNAjoint_logo_final.png){height="250" fig-align="center"}
 
-**eDNAjoint**: R package useful for interpreting observations from paired eDNA and traditional surveys. [Development version](https://github.com/abigailkeller/eDNAjoint) is available for installation, and refer to the [package vignette](https://bookdown.org/abigailkeller/eDNAjoint_vignette/) for more information and detailed examples. In review at *ROpenSci*.
+**eDNAjoint**: R package useful for interpreting observations from paired eDNA and traditional surveys. Available on [Cran](https://cran.r-project.org/web/packages/eDNAjoint/index.html) (stable version) and [ROpenSci](https://github.com/ropensci/eDNAjoint) (development version). Refer to the [package vignette](https://ednajoint.netlify.app/) for more information and detailed examples. Peer-reviewed at *ROpenSci*. Silver statistical software badge.
 :::
 
 ::: {.column width="50%"}

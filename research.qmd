@@ -3,13 +3,24 @@ title: "Research"
 ---
 
 ::: {layout-ncol="2"}
-::: {.column width="40%"}
-![](assets/img/IMG_2801_square.JPG){height="400"}
+::: {.column width="30%"}
+![](assets/img/IMG_2801_square.JPG){width="300"}
+
+![](assets/img/A_Keller_2.JPG){width="300"}
 :::
 
-::: {.column width="60%"}
+::: {.column width="70%"}
 
-Managing the environment is plagued by uncertainty; we can make only imperfect observations of its state, our actions have uncertain outcomes, and factors like climate change will alter the environment in ways that can be hard to predict. My research focuses on using advances in computational science to improve environmental management decisions made under uncertainty. I develop Bayesian state-space models to make inferences about the dynamics of animal populations using imperfect observational data. I also use advances in artificial intelligence to bring more ecological realism into decision theoretic models, like Markov decision processes, that allow for complex biological dynamics and uncertain future change. I value producing environmental management-relevant information, so an aspect of my research focuses on developing societally relevant and equity-minded objective functions, as well as improving interpretation and communication of decision theory to decision-makers.
 
+Uncertainty is a fundamental feature of ecological systems and their management: knowledge of the system state and its dynamics is imperfect, actions have uncertain consequences, and factors like climate change will alter the environment in ways that can be hard to predict. My dissertation represents a range of approaches to uncertainty in ecology and conservation, from improving inference about complex biological systems to optimizing management actions that alter stochastic dynamics:
+
+
+1. Reducing uncertainty about the system state can be accomplished through improved models, including hierarchical and state-space frameworks that distinguish process dynamics from imperfect measurements. Yet analyzing populations impacted by both process noise and observation error remains a difficult computational and statistical task, particularly in scenarios where measurement error is large and demography is complex.
+
+2. Often uncertainty cannot be reduced, so decisions must be made in the face of uncertainty. These decisions are challenging, as biological systems are stochastic, nonlinear, and often non-stationary, yet inappropriate strategies can lead to ecologically, economically, and socially unacceptable outcomes. 
+
+3. Uncertainty can also be generated through data disparities that reflect legacies of social and political inequity. How this uncertainty propagates in decision-making to produce poor decision outcomes remains largely unexplored.
+
+As a researcher, I aim to change the way policy makers and practitioners think about conservation decisions and to provide insight into how we can infer complex ecological dynamics from imperfect observations. Another focus of my research is to narrow the research-implementation gap by developing decision-support tools and software that bring advanced analytical capabilities to a wider audience. 
 :::
 :::
