@@ -8,13 +8,13 @@ title: "Publications"
 
 Acharya-Patel, N., Cram, K., Groenwold, E.T., Lee, H., **Keller, A.G.**, Bomback, B., Lyons, S., Warren, R.L., Coombe, L. Lowe, C., Bergman, L.C., Bishay, F., Birol, I., MacDonald, T.A., Helbing, C.C. Monitoring marine pollution effects through targeted environmental DNA (eDNA) testing in the Pacific Northwest. *Marine Pollution Bulletin*.
 
-**Keller, A.G.** and Kelly, R.P. eDNAjoint: an R package for interpreting paired or semi-paired environmental DNA and traditional survey data in a Bayesian framework. *Methods in Ecology and Evolution*. [Code](https://github.com/ropensci/eDNAjoint) \| [User guide](https://ednajoint.netlify.app/)
-
-**Keller, A.G.**, Counihan, T.D., Grosholz, E.D., Boettiger, C. The transition from resistance to acceptance: managing a marine invasive species in a changing world. *Journal of Applied Ecology*. [Code](https://github.com/abigailkeller/resist-accept)
-
 # Peer-reviewed
 
-Goldstein, B.R., **Keller, A.G.**, Calhoun, K.L., Barker, K.J., Montealegre-Mora, F., Serota, M.W., Van Scoyoc, A., Parker-Shames, P., Androzzi, C., de Valpine, P. How do ecologists estimate occupancy in practice? (Accepted). *Ecography*.
+**Keller, A.G.** and Kelly, R.P. eDNAjoint: an R package for interpreting paired or semi-paired environmental DNA and traditional survey data in a Bayesian framework. (Accepted) *Methods in Ecology and Evolution*. [Code](https://github.com/ropensci/eDNAjoint) \| [User guide](https://ednajoint.netlify.app/)
+
+**Keller, A.G.**, Counihan, T.D., Grosholz, E.D., Boettiger, C. The transition from resistance to acceptance: managing a marine invasive species in a changing world. *Journal of Applied Ecology*. [Link](https://doi.org/10.1111/1365-2664.14881) \| [PDF](assets/pubs/Keller_2025a.pdf) \| [Code](https://github.com/abigailkeller/resist-accept)
+
+Goldstein, B.R., **Keller, A.G.**, Calhoun, K.L., Barker, K.J., Montealegre-Mora, F., Serota, M.W., Van Scoyoc, A., Parker-Shames, P., Androzzi, C., de Valpine, P. How do ecologists estimate occupancy in practice? (2024). *Ecography*. [Link](https://doi.org/10.1111/ecog.07402)
 
 Betters, M., Stabbins, A., **Keller, A.G.**, Cordes, E.E. (2023). Biogeography and depth partitioning in deep‐sea gastropods at the Pacific Costa Rica Margin. *Journal of Biogeography*. 50(12), 2109-2121. [Link](https://doi.org/10.1111/jbi.14722) 
 
