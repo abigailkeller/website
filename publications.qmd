@@ -6,7 +6,7 @@ title: "Publications"
 
 # Peer-reviewed
 
-**Keller, A.G.** and Kelly, R.P. eDNAjoint: an R package for interpreting paired or semi-paired environmental DNA and traditional survey data in a Bayesian framework. (Accepted) *Methods in Ecology and Evolution*. [Code](https://github.com/ropensci/eDNAjoint) \| [User guide](https://ednajoint.netlify.app/)
+**Keller, A.G.** and Kelly, R.P. eDNAjoint: an R package for interpreting paired or semi-paired environmental DNA and traditional survey data in a Bayesian framework. *Methods in Ecology and Evolution*. 00,1–9. [Link](https://doi.org/10.1111/2041-210X.70000) \| [PDF](assets/pubs/Keller_2025b.pdf) \| [Code](https://github.com/ropensci/eDNAjoint) \| [User guide](https://ednajoint.netlify.app/) \| [Webinar](https://www.youtube.com/watch?v=_fBllgza4jU)
 
 **Keller, A.G.**, Counihan, T.D., Grosholz, E.D., Boettiger, C. The transition from resistance to acceptance: managing a marine invasive species in a changing world. (2025). *Journal of Applied Ecology*. [Link](https://doi.org/10.1111/1365-2664.14881) \| [PDF](assets/pubs/Keller_2025a.pdf) \| [Code](https://github.com/abigailkeller/resist-accept)
 
