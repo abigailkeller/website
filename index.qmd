@@ -1,6 +1,6 @@
 ---
 title: "About me"
-title-block-banner: assets/img/IMG_2693_3.JPG
+title-block-banner: assets/img/IMG_1467.JPG
 title-block-mask: '<span class="mask bg-gradient-light opacity-2"></span>'
 ---
 

@@ -2,13 +2,13 @@
 title: "Photography"
 ---
 
-Here are some photographs from my field work, conference travel, and other important places to me.
+Here are some photographs from my field work and conference travel.
 
 ::: {layout-ncol="2"}
 
 ![Mouth of the Columbia River](assets/img/IMG_2757-2.jpg){height="400px"}
 
-![Keyser, WV](assets/img/IMG_4629-02.jpg){height="400px"}
+![Bonneville Dam](assets/img/IMG_1245.jpg){height="400px"}
 :::
 
 ::: {layout-ncol="3"}
