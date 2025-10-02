@@ -14,7 +14,7 @@ title-block-mask: '<span class="mask bg-gradient-light opacity-2"></span>'
 
 ------------------------------------------------------------------------
 
-I am a PhD candidate and [DOE CSGF Fellow](https://www.krellinst.org/csgf/) in the UC Berkeley Department of [Environmental Science, Policy, and Management (ESPM)](https://ourenvironment.berkeley.edu/), where I study quantitative ecology and decision analysis in the [Boettiger](https://www.carlboettiger.info/) and [de Valpine](https://nature.berkeley.edu/~pdevalpine/) Labs. For the past few years I have been working with USGS Western Fisheries Research Center on developing a structured decision making framework for invasive European green crab management in the Northeast Pacific.
+I am a PhD candidate and [DOE CSGF Fellow](https://www.krellinst.org/csgf/) in the UC Berkeley Department of [Environmental Science, Policy, and Management (ESPM)](https://ourenvironment.berkeley.edu/), where I study quantitative ecology and decision analysis in the [Boettiger](https://www.carlboettiger.info/) and [de Valpine](https://devalpinegroup.org/) Labs. For the past few years I have been working with USGS Western Fisheries Research Center on developing a structured decision making framework for invasive European green crab management in the Northeast Pacific.
 
 I have a master's degree in Marine Policy from the University of Washington and a bachelor's degree in Biology from Haverford College. I also have a background in molecular ecology and deep-sea biogeography.
 
