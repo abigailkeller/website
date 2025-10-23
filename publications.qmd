@@ -4,9 +4,7 @@ title: "Publications"
 
 [Google Scholar](https://scholar.google.com/citations?user=5FiapqgAAAAJ&hl=en&oi=ao) \| [ORCID](https://orcid.org/0000-0001-6068-0173)
 
-# Peer-reviewed
-
-**Keller, A.G.**, Goldstein, B.G., Skare, L., de Valpine, P. An integrated integral projection model (IPM2) to disentangle size-structured harvest and natural mortality. (Accepted). *Journal of Animal Ecology*. [Code](https://github.com/abigailkeller/IPMsquared)
+**Keller, A.G.**, Goldstein, B.G., Skare, L., de Valpine, P. An integrated integral projection model ($IPM^2$) to disentangle size-structured harvest and natural mortality. (Accepted). *Journal of Animal Ecology*. [Code](https://github.com/abigailkeller/IPMsquared)
 
 Acharya-Patel, N., Cram, K., Groenwold, E.T., Lee, H., **Keller, A.G.**, Bomback, B., Lyons, S., Warren, R.L., Coombe, L. Lowe, C., Bergman, L.C., Bishay, F., Birol, I., MacDonald, T.A., Helbing, C.C. Monitoring marine pollution effects through targeted environmental DNA (eDNA) testing in the Pacific Northwest. (2025). *Marine Pollution Bulletin*. 16:118036. [Link](https://doi.org/10.1016/j.marpolbul.2025.118036)
 
