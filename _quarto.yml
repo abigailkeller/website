@@ -14,8 +14,6 @@ website:
         href: publications.qmd
       - text: "Software"
         href: software.qmd
-      - text: "Photography"
-        href: photography.qmd
     tools:
       - icon: github
         href: https://github.com/abigailkeller
