@@ -6,7 +6,7 @@ title: "Research"
 ::: {.column width="30%"}
 ![](assets/img/IMG_2801_square.JPG){width="300"}
 
-![](assets/img/A_Keller_2.JPG){width="300"}
+![](assets/img/A_Keller_2.jpg){width="300"}
 :::
 
 ::: {.column width="70%"}
