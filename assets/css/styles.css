@@ -1,5 +1,12 @@
 /* styles.css */
 
+/* Make the title banner sticky */
+#title-block-header {
+  position: sticky;
+  top: 56px; /* Height of the fixed navbar - adjust if needed */
+  z-index: 1050;
+}
+
 .banner {
   height: 300px; /* Adjust the height as needed */
   width: 100%; /* Optional: Ensure the image fills the width of its container */

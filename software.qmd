@@ -2,13 +2,24 @@
 title: "Software"
 ---
 
+```{r setup, include=FALSE}
+library(cranlogs)
+# Fetch total downloads for eDNAjoint
+edna_stats <- cran_downloads(packages = "eDNAjoint", from = "2023-01-01", to = Sys.Date())
+total_downloads <- sum(edna_stats$count)
+```
+
 **In my work I hope to promote reproducible science and narrow the research-implementation gap. Below are some software and management tools I have developed.**
 
 ::: {layout-ncol="2"}
 ::: {.column width="50%"}
 ![](assets/img/eDNAjoint_logo_final.png){height="250" fig-align="center"}
 
-**eDNAjoint**: R package useful for interpreting observations from paired eDNA and traditional surveys. Available on [Cran](https://cran.r-project.org/web/packages/eDNAjoint/index.html) (stable version) and [ROpenSci](https://github.com/ropensci/eDNAjoint) (development version). Refer to the [package vignette](https://ednajoint.netlify.app/) and [MEElive! webinar](https://www.youtube.com/watch?v=_fBllgza4jU) for more information and detailed examples. Peer-reviewed at *ROpenSci* (check out [blog post](https://ropensci.org/blog/2025/04/10/ednajoint-a-modeling-tool-for-environmental-dna-data/)).
+**eDNAjoint**: R package useful for interpreting observations from paired eDNA and traditional surveys. Available on [Cran](https://cran.r-project.org/web/packages/eDNAjoint/index.html) (stable version) and [ROpenSci](https://github.com/ropensci/eDNAjoint) (development version).
+
+📊 **Total downloads (since 2023): `r format(total_downloads, big.mark=",")`**
+
+Refer to the [package vignette](https://ednajoint.netlify.app/) and [MEElive! webinar](https://www.youtube.com/watch?v=_fBllgza4jU) for more information and detailed examples. Peer-reviewed at *ROpenSci* (check out [blog post](https://ropensci.org/blog/2025/04/10/ednajoint-a-modeling-tool-for-environmental-dna-data/)).
 :::
 
 ::: {.column width="50%"}
