@@ -27,7 +27,7 @@ jobs:
 
       - name: Install R dependencies
         run: |
-          install.packages("cranlogs")
+          install.packages(c("cranlogs", "knitr", "rmarkdown"))
         shell: Rscript {0}
 
       - name: Render Quarto site
