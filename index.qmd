@@ -6,7 +6,7 @@ title-block-mask: '<span class="mask bg-gradient-light opacity-2"></span>'
 
 ::: {layout-ncol="2"}
 ::: {.column width="40%"}
-![](assets/img/IMG_1870.JPG){height="550"}
+![](assets/img/IMG_1870.JPG){style="height:600px; width:auto;"}
 :::
 
 ::: {.column width="60%"}

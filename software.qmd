@@ -13,17 +13,17 @@ total_downloads <- sum(edna_stats$count)
 
 ::: {layout-ncol="2"}
 ::: {.column width="50%"}
-![](assets/img/eDNAjoint_logo_final.png){height="250" fig-align="center"}
+![](assets/img/eDNAjoint_logo_final.png){style="height:280px; width:auto;" fig-align="center"}
 
 **eDNAjoint**: R package useful for interpreting observations from paired eDNA and traditional surveys. Available on [Cran](https://cran.r-project.org/web/packages/eDNAjoint/index.html) (stable version) and [ROpenSci](https://github.com/ropensci/eDNAjoint) (development version).
 
-📊 **Total downloads (since 2023): `r format(total_downloads, big.mark=",")`**
-
 Refer to the [package vignette](https://ednajoint.netlify.app/) and [MEElive! webinar](https://www.youtube.com/watch?v=_fBllgza4jU) for more information and detailed examples. Peer-reviewed at *ROpenSci* (check out [blog post](https://ropensci.org/blog/2025/04/10/ednajoint-a-modeling-tool-for-environmental-dna-data/)).
+
+📊 **Total downloads (since 2023): `r format(total_downloads, big.mark=",")`**
 :::
 
 ::: {.column width="50%"}
-![](assets/img/greencrab_drawing.png){height="175" fig-align="center"}
+![](assets/img/greencrab_drawing.png){style="height:200px; width:auto;" fig-align="center"}
 
 [European Green Crab Management Tools](https://washingtonseagrant.shinyapps.io/greencrabtools/): Washington Sea Grant-hosted RShiny app co-developed with invasive species managers throughout Washington State to help plan and interpret European green crab removal efforts.
 

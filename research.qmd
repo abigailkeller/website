@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-::: {layout-ncol="2"}
+::: {layout-ncol="2" .research-layout}
 ::: {.column width="30%"}
 ![](assets/img/IMG_2801_square.JPG){width="300"}
 

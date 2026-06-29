@@ -21,6 +21,7 @@ website:
 
 format:
   html:
+    css: [assets/css/styles.css]
     grid:
         body-width: 1100px
     title-block-banner: assets/img/IMG_1467.JPG
