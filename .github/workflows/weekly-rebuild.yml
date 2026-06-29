@@ -34,15 +34,32 @@ jobs:
         run: quarto render
 
       - name: Commit and push changes
+        env:
+          PAT: ${{ secrets.PAT }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          
+
           # Check if there are changes
           if git diff --quiet; then
             echo "No changes to commit"
+            exit 0
+          fi
+
+          git add -A
+          git commit -m "Weekly site rebuild with updated package download stats"
+
+          # If a personal access token is provided in secrets.PAT, use it to push.
+          # Otherwise attempt a normal push (may fail if repository settings disallow github-actions[bot] pushes).
+          if [ -n "${PAT}" ]; then
+            remote_url=$(git config --get remote.origin.url)
+            auth_url=$(echo "$remote_url" | sed -e "s#https://github.com#https://x-access-token:${PAT}@github.com#")
+            git push "$auth_url" HEAD:main
           else
-            git add -A
-            git commit -m "Weekly site rebuild with updated package download stats"
-            git push
+            if git push; then
+              echo "Pushed changes using default credentials"
+            else
+              echo "Push failed (likely permission denied for github-actions[bot])."
+              echo "To enable automatic pushes, add a personal access token (with repo scope) to repository secrets named 'PAT'. Skipping push to avoid failing the workflow."
+            fi
           fi
