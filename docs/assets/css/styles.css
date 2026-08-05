@@ -1,0 +1,53 @@
+/* styles.css */
+
+/* Keep the top toolbar visible and allow the title banner to scroll */
+#title-block-header {
+  position: relative;
+  top: auto;
+  z-index: auto;
+}
+
+header.headroom,
+#quarto-header {
+  transform: none !important;
+  transition: none !important;
+}
+
+header.headroom--unpinned,
+header.headroom--pinned {
+  transform: translateY(0%) !important;
+}
+
+.research-layout .quarto-layout-row {
+  align-items: flex-start;
+}
+
+.research-layout .quarto-layout-cell:first-child {
+  flex: 0 0 30% !important;
+  max-width: 30% !important;
+  min-width: 30% !important;
+}
+
+.research-layout .quarto-layout-cell:last-child {
+  flex: 0 0 70% !important;
+  max-width: 70% !important;
+  min-width: 70% !important;
+}
+
+.banner {
+  height: 300px; /* Adjust the height as needed */
+  width: 100%; /* Optional: Ensure the image fills the width of its container */
+  object-fit: cover; /* Optional: Maintain aspect ratio while covering the entire container */
+}
+
+.reverse-list {
+  counter-reset: reversed-counter;
+}
+
+.reverse-list li {
+  counter-increment: reversed-counter;
+}
+
+.reverse-list li::before {
+  content: counter(reversed-counter);
+}
