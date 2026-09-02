@@ -8,9 +8,10 @@ title-block-mask: '<span class="mask bg-gradient-light opacity-2"></span>'
 ::: {.homepage-banner}
 :::
 
+::: {.homepage-profile}
 ::: {layout-ncol="2"}
 ::: {.column width="40%"}
-![](assets/img/IMG_1870.JPG){style="height:600px; width:auto;"}
+![](assets/img/IMG_1870.JPG){style="height:600px; width:auto; display:block; margin:0 auto"}
 :::
 
 ::: {.column width="60%"}
@@ -29,5 +30,6 @@ I have a master's degree in Marine Policy from the University of Washington and 
 ------------------------------------------------------------------------
 
 [GitHub](https://github.com/abigailkeller) \| [CV](assets/img/Keller_CV.pdf) \| agkeller@berkeley.edu
+:::
 :::
 :::

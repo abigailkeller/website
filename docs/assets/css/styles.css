@@ -148,6 +148,28 @@ body:has(.homepage-banner) .homepage-banner {
   box-sizing: border-box;
 }
 
+body:has(.homepage-banner) .homepage-banner + .quarto-layout-panel > .quarto-layout-row {
+  column-gap: 0;
+  gap: 0;
+}
+
+body:has(.homepage-banner) .homepage-banner + .quarto-layout-panel > .quarto-layout-row > .quarto-layout-cell:first-child p {
+  text-align: right;
+}
+
+body:has(.homepage-banner) .homepage-banner + .quarto-layout-panel > .quarto-layout-row > .quarto-layout-cell:last-child {
+  padding: 0;
+}
+
+body:has(.homepage-banner) .homepage-banner + .quarto-layout-panel > .quarto-layout-row > .quarto-layout-cell:first-child {
+  padding: 0;
+}
+
+body:has(.homepage-banner) .homepage-banner + .quarto-layout-panel > .quarto-layout-row > .quarto-layout-cell:first-child img {
+  width: 100% !important;
+  height: auto !important;
+}
+
 main.content {
   width: 100%;
   max-width: none !important;
@@ -357,6 +379,10 @@ figcaption, .figure-caption {
   .homepage-banner {
     height: 210px;
     min-height: 210px;
+  }
+
+  body:has(.homepage-banner) .homepage-banner + .quarto-layout-panel > .quarto-layout-row > .quarto-layout-cell:first-child p {
+    text-align: left;
   }
 
   .research-layout .quarto-layout-row {
