@@ -12,7 +12,7 @@ title: "Research"
 ::: {.column width="70%"}
 
 
-Uncertainty is a fundamental feature of ecological systems and their management: knowledge of the system state and its dynamics is imperfect, actions have uncertain consequences, and factors like climate change will alter the environment in ways that can be hard to predict. My dissertation represents a range of approaches to uncertainty in ecology and conservation, from improving inference about complex biological systems to optimizing management actions that alter stochastic dynamics:
+Uncertainty is a fundamental feature of managing ecological systems: knowledge of the system state and its dynamics is imperfect, actions have uncertain consequences, and factors like climate change will alter the environment in ways that can be hard to predict. My dissertation represents a range of approaches to uncertainty in ecology and conservation, from improving inference about complex biological systems to optimizing management actions that alter stochastic dynamics:
 
 
 1. Reducing uncertainty about the system state can be accomplished through improved models, including hierarchical and state-space frameworks that distinguish process dynamics from imperfect measurements. Yet analyzing populations impacted by both process noise and observation error remains a difficult computational and statistical task, particularly in scenarios where measurement error is large and demography is complex.

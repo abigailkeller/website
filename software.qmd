@@ -3,15 +3,17 @@ title: "Software"
 ---
 
 ```{r setup, include=FALSE}
-library(cranlogs)
-# Fetch total downloads for eDNAjoint
-edna_stats <- cran_downloads(packages = "eDNAjoint", from = "2023-01-01", to = Sys.Date())
-total_downloads <- sum(edna_stats$count)
+if (requireNamespace("cranlogs", quietly = TRUE)) {
+	edna_stats <- cranlogs::cran_downloads(packages = "eDNAjoint", from = "2023-01-01", to = Sys.Date())
+	total_downloads <- sum(edna_stats$count)
+} else {
+	total_downloads <- NA_real_
+}
 ```
 
 **In my work I hope to promote reproducible science and narrow the research-implementation gap. Below are some software and management tools I have developed.**
 
-::: {layout-ncol="2"}
+::: {layout-ncol="2" .software-grid}
 ::: {.column width="50%"}
 ![](assets/img/eDNAjoint_logo_final.png){style="height:280px; width:auto;" fig-align="center"}
 
@@ -19,7 +21,9 @@ total_downloads <- sum(edna_stats$count)
 
 Refer to the [package vignette](https://ednajoint.netlify.app/) and [MEElive! webinar](https://www.youtube.com/watch?v=_fBllgza4jU) for more information and detailed examples. Peer-reviewed at *ROpenSci* (check out [blog post](https://ropensci.org/blog/2025/04/10/ednajoint-a-modeling-tool-for-environmental-dna-data/)).
 
-📊 **Total downloads (since 2023): `r format(total_downloads, big.mark=",")`**
+::: {.download-stat}
+**Total downloads since 2023:** `r if (is.na(total_downloads)) "Data unavailable during build" else format(total_downloads, big.mark=",")`
+:::
 :::
 
 ::: {.column width="50%"}
@@ -31,4 +35,4 @@ Refer to the [package vignette](https://ednajoint.netlify.app/) and [MEElive! we
 :::
 :::
 
-![Demonstrating the green crab management toolkit at a management summit in WA state](assets/img/Abby-ShinyPresentation.jpg){height="500"}
+![Demonstrating the green crab management toolkit at a management summit in WA state](assets/img/Abby-ShinyPresentation.jpg){.software-feature-image height="500"}
