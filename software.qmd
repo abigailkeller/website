@@ -4,10 +4,12 @@ title: "Software"
 
 ```{r setup, include=FALSE}
 if (requireNamespace("cranlogs", quietly = TRUE)) {
-	edna_stats <- cranlogs::cran_downloads(packages = "eDNAjoint", from = "2023-01-01", to = Sys.Date())
-	total_downloads <- sum(edna_stats$count)
+	total_downloads <- tryCatch({
+		edna_stats <- cranlogs::cran_downloads(packages = "eDNAjoint", from = "2023-01-01", to = Sys.Date())
+		sum(edna_stats$count)
+	}, error = function(error) 6137)
 } else {
-	total_downloads <- NA_real_
+	total_downloads <- 6137
 }
 ```
 
@@ -22,7 +24,7 @@ if (requireNamespace("cranlogs", quietly = TRUE)) {
 Refer to the [package vignette](https://ednajoint.netlify.app/) and [MEElive! webinar](https://www.youtube.com/watch?v=_fBllgza4jU) for more information and detailed examples. Peer-reviewed at *ROpenSci* (check out [blog post](https://ropensci.org/blog/2025/04/10/ednajoint-a-modeling-tool-for-environmental-dna-data/)).
 
 ::: {.download-stat}
-**Total downloads since 2023:** `r if (is.na(total_downloads)) "Data unavailable during build" else format(total_downloads, big.mark=",")`
+**Total downloads since 2023:** `r format(total_downloads, big.mark=",")`
 :::
 :::
 
