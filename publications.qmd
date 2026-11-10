@@ -1,5 +1,9 @@
 [Google Scholar](https://scholar.google.com/citations?user=5FiapqgAAAAJ&hl=en&oi=ao) \| [ORCID](https://orcid.org/0000-0001-6068-0173)
 
+Gimenez, O., **Keller, A.G.**, Milleret, C. Bayesian decision theory for wildlife management under uncertainty: from inference to action. (Accepted). *Ecological Solutions and Evidence*
+
+Martins, L.M.A., Donzeiser, L.J., Ruffins, O.M., Lebenzon, J.E., Treidel, L.A., **Keller, A.G.**, Montooth, K.L., Meiklejohn, C.D., Williams, C.M. Evolution towards monomorphy leads to a loss of plasticity in wing polymorphic crickets. (2026). *Evolution*. qpag190. [Link](https://doi.org/10.1093/evolut/qpag190) \| [PDF](assets/pubs/Martins_2026.pdf)
+
 **Keller, A.G.**, McIntosh, T.L., Kimball-Rhines, C., Leng, D., Nelson, K.S. Tension between opportunities and risks of deep learning in social-ecological systems research. (2026). *Ecology and Society*. 31(3): 6. [Link](https://doi.org/10.5751/ES-17589-310306) \| [PDF](assets/pubs/Keller_2026b.pdf)
 
 **Keller, A.G.**, Goldstein, B.G., Skare, L., de Valpine, P. An integrated integral projection model ($IPM^2$) to disentangle size-structured harvest and natural mortality. (2026). *Journal of Animal Ecology*. 95:157–174 [Link](https://doi.org/10.1111/1365-2656.70176) \|
